@@ -1,0 +1,4 @@
+npm i v
+bootstrap
+popper.js
+jquery
